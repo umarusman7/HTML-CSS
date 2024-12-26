@@ -23,42 +23,34 @@
 
 }
 .menu a{
-    text-decoration: none;
-}
-.m{
     color: white;
     position: absolute;
+    text-decoration: none;
     top: 15px;
+}
+
+
+.m{
     left: 4px;
 }
+
 .w{
-    color: white;
-    position: absolute;
-    top: 15px;
     left: 80px;
 }
+
 .k{
-    color: white;
-    position: absolute;
-    top: 15px;
     left: 180px;
 }
+
 .s{
-    color: white;
-    position: absolute;
-    top: 15px;
     left: 270px;
 }
+
 .sale{
-    color: white;
-    position: absolute;
-    top: 15px;
     left: 360px;
 }
 .sus{
-    color: white;
-    position: absolute;
-    top: 15px;
+    
     right: 150px;
 }
 .store{
