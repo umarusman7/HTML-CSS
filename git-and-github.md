@@ -17,3 +17,9 @@ git checkout -b "new branch namge whatever that is"
 ```bash
 git status
 ```
+
+4. Stage changes
+
+```bash
+git add "filename or foldername or pattern"
+```
