@@ -1,0 +1,496 @@
+.wrapper{
+    max-width: 1920px;
+    margin: 0 auto;
+    overflow: hidden;
+    
+}
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    height: 60px;
+    
+}
+
+.menu{
+    color: white;
+    background-color: grey;
+    height: 60px;
+    position: relative;
+    
+
+}
+.menu a{
+    text-decoration: none;
+}
+.m{
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 4px;
+}
+.w{
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 80px;
+}
+.k{
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 180px;
+}
+.s{
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 270px;
+}
+.sale{
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 360px;
+}
+.sus{
+    color: white;
+    position: absolute;
+    top: 15px;
+    right: 150px;
+}
+.store{
+    color: white;
+    position: absolute;
+    top: 15px;
+    right: 100px;}
+.text{
+    font-size:x-large ;
+    font-style: italic;
+    position: absolute;
+    left: 700px;
+    top: 10px;
+    
+}
+.img{
+    width: 50vw;
+    background-color: grey;
+    
+}
+.bg{
+    width: 100%;
+    height:575px ;
+    background-color: aqua;
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+}
+.text1{
+    color:white;
+    font-size: xx-large;
+    font-style: unset;
+    position: absolute;
+    top: 150px;
+    left: 34%;
+}
+.text2{
+    font-size: x-large;
+    font-style: italic;
+    color: white;
+    position: absolute;
+    top:180px ;
+    left: 440px;
+}
+.button{
+    position: absolute;
+    bottom: 330px;
+    left: 580px;
+    
+}
+.button2{
+    position: absolute;
+    bottom: 330px;
+    left: 700px;
+}
+.card{
+    height: 600px;
+    width: 100%;
+    margin-left:200px ;
+
+}
+.fav{
+    font-size: xx-large;
+    text-align: center;
+    font-style: oblique;
+}
+.tr{
+    height: 510px;
+    width: 350px;
+    background-color:white;
+    display: inline-block;
+    box-shadow: 10px 20px 3px whitesmoke;
+}
+
+.shoe img{
+    height:400px ;
+    width: 330px;
+    padding-left:10px ;
+}
+.runner{
+   
+   
+    
+}
+.treerunner{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.card2{
+    height: 510px;
+    width: 350px;
+    background-color: white;
+    display: inline-block;
+    box-shadow: 10px 20px 3px whitesmoke;
+}
+.img2{
+    height: 400px;
+    width: 330px;
+    padding-left:10px ;
+}
+.tz{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.card3{
+    height: 510px;
+    width: 350px;
+    background-color:white;
+    display: inline-block;
+    box-shadow: 10px 20px 3px whitesmoke;
+}
+.img4{
+    height: 400px;
+    width: 330px;
+    padding-left: 10px;
+}
+.tl{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.bg2{
+    height: 550px;
+    width: 100%;
+    background-image: url(/img/bg2.jpg);
+    background-position: center bottom;
+    background-size: cover ;
+}
+.st{
+    height: 120px;
+    width: 100%;
+    text-align: center;
+}
+.stt{
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+}
+.b1{
+    color: white;
+    background-color: black;
+}
+.salecard{
+    height: 700px;
+    width: 100%;
+    position: relative;
+}
+.sch1{
+    position: absolute;
+    left: 200px;
+    top: 77px;
+}
+.sc1{
+    height: 510px;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 200px;
+    top: 130px;
+}
+.scimg1{
+    height: 410px;
+    width: 330px;
+    padding-left: 10px;
+    
+    
+}
+.wtd1{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.sc2{
+    height: 510px;
+    width: 350px;
+    border: 1px solid black;
+    display: inline-block;
+    position: absolute;
+    left: 555px;
+    top: 130px;    
+}
+.scimg2{
+    height:410px ;
+    width: 330px;
+    padding-left: 10px;
+    
+}
+.mtr{
+    border-bottom:2px solid black ;
+    font-size: x-large;
+    font-style: oblique;
+}
+.sc3{
+    height: 510px;
+    width: 350px;
+    border: 1px solid black;
+    display: inline-block;
+    position: absolute;
+    left: 910px;
+    top: 130px;
+}
+.scimg3{
+    height: 410px;
+    width: 330px;
+    padding-left: 10px;
+}
+.wtb{
+    border-bottom:2px solid black ;
+    font-size: x-large;
+    font-style: oblique;
+}
+.bg3{
+    height: 650px;
+    width: 100%;
+    background-image: url(img/bg3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.sst{
+    text-align: center;
+    font-style: oblique;
+}
+.ss{
+    font-size: xx-large;
+    font-style: oblique;
+}
+.cc{
+    height: 700px;
+    width: 100%;
+    position: relative;
+    
+    
+}
+.cc1{
+    height: 550px;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
+.ccimg1{
+    height: 430px;
+    width: 330px;
+    padding-left: 10px;
+}
+.cct1{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.cc2{
+    height: 550px;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 555px;
+    top: 100px;
+}
+.ccimg2{
+    height: 430px;
+    width: 330px;
+    padding-left: 10px;
+}
+.cct2{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.cc3{
+    height: 550px;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 910px;
+    top: 100px;
+}
+.ccimg3{
+    height: 430px;
+    width: 330px;
+    padding-left: 10px;
+}
+.cct3{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.ccheading{
+    position: absolute;
+    left: 200px;
+    top: 30px;
+}
+.bg4{
+    height: 600px;
+    width: 100%;
+    background-image: url(img/bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg4t{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+.bgt4{
+    font-size: x-large;
+    font-style: oblique;
+}
+.bg4button{
+    background-color: black;
+    color: white;
+}
+.stories{
+    height: 700px;
+    width: 100%;
+    position: relative;   
+}
+.storiesheading{
+    position: absolute;
+    left: 200px;
+    top: 30px;
+}
+.stc1{
+    height: 550px;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    overflow: hidden;
+}
+.stcimg1{
+    height: 430px;
+    width: 330px;
+    padding-left: 10px;
+}
+.stct1{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.stc2{
+    height: 550px;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 555px;
+    top: 100px;
+    overflow: hidden;
+}
+.stcimg2{
+    height: 430px;
+    width: 330px;
+    padding-left: 10px;
+}
+.stct2{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.stc3{
+    height: 550px;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 910px;
+    top: 100px;
+}
+.stcimg3{
+    height: 430px;
+    width: 330px;
+    padding-left: 10px;
+}
+.stct3{
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    font-style: oblique;
+}
+.signup{
+    height: 270px;
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+    padding-top: 70px;
+    font-style: oblique;
+}
+input{
+    width: 440px;
+}
+#button{
+    color: white;
+    background-color: black;
+}
+.black{
+    height: 650px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+.help{
+    display: inline-block;
+    height: 550px;
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+}
+.shop{
+    display: inline-block;
+    height: 550px;
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: 650px;
+}
+.Company{
+    display: inline-block;
+    height: 550px;
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: 900px;
+}
